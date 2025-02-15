@@ -1,0 +1,12 @@
+fastapi==0.95.0
+uvicorn==0.20.0
+requests
+numpy
+faker
+python-dateutil
+pandas
+Pillow
+beautifulsoup4
+markdown
+pydub 
+speechrecognition
